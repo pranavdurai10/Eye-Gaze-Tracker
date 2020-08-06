@@ -18,7 +18,7 @@ git clone https://github.com/pranavdurai10/Eye-Gaze-Tracker.git
 Install these dependencies (NumPy, OpenCV, Dlib):
 
 ```
-pip install -r requirements.txt
+pip install -r Prerequisites.txt
 ```
 
 > The Dlib library has four primary prerequisites: Boost, Boost.Python, CMake and X11/XQuartx. If you don't have them, you can [read this article](https://www.pyimagesearch.com/2017/03/27/how-to-install-dlib/) to know how to easily install them.
